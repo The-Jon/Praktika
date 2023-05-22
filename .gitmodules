@@ -7,3 +7,6 @@
 [submodule "P2"]
 	path = P2
 	url = https://github.com/The-Jon/P2.git
+[submodule "P4"]
+	path = P4
+	url = https://github.com/The-Jon/P4.git
